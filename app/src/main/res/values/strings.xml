@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">News Report</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="live_news">Live News</string>
+    <string name="saved">Saved</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="published">Published</string>
+    <string name="source">Source</string>
+    <string name="save_this_news">Save This News</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="about_description">News report is an application that provides updated news from various countries.</string>
+</resources>

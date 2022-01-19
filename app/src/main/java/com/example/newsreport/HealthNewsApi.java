@@ -1,0 +1,11 @@
+package com.example.newsreport;
+
+import java.util.List;
+
+import retrofit2.Call;
+import retrofit2.http.GET;
+
+public interface HealthNewsApi {
+    @GET("health-news.json")
+    Call<List<News>> getAllNews();
+}
