@@ -19,5 +19,5 @@
     <string name="save_this_news">Save This News</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="about_description">News report is an application that provides news from various countries.</string>
+    <string name="about_description">News report is an application that provides news from various countries</string>
 </resources>
