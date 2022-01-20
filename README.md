@@ -13,5 +13,7 @@ The application that we made is an application that displays news from various c
 https://github.com/AlvinW19/json-api
 
 News reference:
+
 https://www.inshorts.com/en/read
+
 https://edition.cnn.com/
